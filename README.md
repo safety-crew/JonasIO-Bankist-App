@@ -48,10 +48,6 @@ This project is intended to help learners understand and practice:
 | Steven Thomas Williams  | stw      | 3333  |
 | Sarah Smith             | ss       | 4444  |
 
-## Screenshots
-
-![Bankist UI](Images/Bankist-flowchart.png)
-
 ## License
 
 This project is for educational purposes only.
@@ -61,3 +57,4 @@ This project is for educational purposes only.
 **Files:**
 - [index.html](index.html)
 - [style.css](style.css)
+- [script.js](script.js)
